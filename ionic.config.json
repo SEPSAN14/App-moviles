@@ -1,0 +1,7 @@
+{
+  "name": "Sumativamobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
